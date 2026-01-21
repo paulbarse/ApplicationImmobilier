@@ -7,9 +7,9 @@ import java.sql.SQLException;
 public class UtOracleDataSource {
 
 	private static Connection connection = null;
-	private static final String URL = "jdbc:oracle:thin:@telline.univ-tlse3.fr:1521:ETUPRE";
-	private static final String login = "pgs5457a";
-	private static final String mdp = "$";  // REMPLACER PAR VOTRE MOT DE PASSE
+	private static final String URL = ""; // METTRE VOTRE URL ORACLE ICI
+	private static final String login = ""; // METTRE VOS LOGIN ICI
+	private static final String mdp = "";  // REMPLACER PAR VOTRE MOT DE PASSE
 
 	private UtOracleDataSource() {
 	}
