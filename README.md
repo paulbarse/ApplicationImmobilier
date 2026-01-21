@@ -1,6 +1,6 @@
-# 🏢 Gestion Immobilière (S3.C.01)
+# 🏢 Gestion Immobilière
 
-Une application complète de gestion de biens immobiliers (non meublés) développée en Java. Ce projet a été réalisé dans le cadre de la SAE 3.C.01 à l'IUT de Toulouse.
+Une application complète de gestion de biens immobiliers (non meublés) développée en Java. Ce projet a été réalisé dans le cadre d'une SAE à l'IUT de Toulouse.
 
 L'objectif est de fournir aux propriétaires privés un outil pour gérer leurs biens, locataires, baux et la complexité administrative liée à la régularisation des charges et aux impôts.
 
