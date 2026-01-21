@@ -66,6 +66,6 @@ Le projet gère les contraintes suivantes :
 1.  **Pré-requis :** Avoir Java et une instance Oracle Database installés.
 2.  **Base de données :** Exécuter les scripts SQL fournis dans le dossier `/sql` pour créer les tables, triggers et procédures.
 3.  **Configuration :** Modifier le fichier `database.properties` avec vos identifiants Oracle.
-4.  **Exécution :** Lancer la classe `Main.java`.
+4.  **Exécution :** Lancer la classe `page_principale.java`.
 
 ---
